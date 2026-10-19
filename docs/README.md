@@ -10,6 +10,7 @@ the documents listed here.
 - [Harness architecture](HARNESS-ARCHITECTURE.md) - how model, loop, context, tools, persistence, and UI fit.
 - [Harness efficiency](process/EFFICIENCY.md) - stable caching, bounded verification, local cost diagnostics and quality gates.
 - [Improvement directions (Vietnamese)](IMPROVEMENT-DIRECTIONS.vi.md) - research-based proposals and evidence gates; not a current feature contract.
+- [Development spec from AI bulletins (Vietnamese)](research/development-spec-ai-everyday-2026-10-19.vi.md) - proposed workstreams S1-S7 awaiting owner review; not a current feature contract.
 - [Ports and adapters](process/ARCHITECTURE.md) - dependency and trust boundaries.
 - [Extending Neko](EXTENDING.md) - providers, tools, skills, recipes, and MCP.
 - [Working rules](process/RULES.md) - repository invariants and verify loop.
